@@ -2,3 +2,23 @@ body{
     background-color: rgb(239, 255, 255);
     color: rgb(0, 0, 0);
 }
+
+header{
+    background-color: rgba(144, 198, 215, 0.609);
+    padding: 40px;
+}
+
+.link{
+    color: rgba(165, 42, 42, 0.803);
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(188, 247, 255);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
+h1{
+    color: cadetblue;
+    text-align: center;
+}
